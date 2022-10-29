@@ -9,7 +9,7 @@
 		"subscription-integrations": {
 			"title": "Discord 和 Telegram 集成",
 			"rule_1": "要获得对私有 Discord 服务器和 Telegram 频道的完全访问权限，您需要连接它们的集成",
-			"rule_2": "访问权限将仅授予提供的帐户！只有在订阅续订时才能将访问权限转移到另一个帐户。",
+			"rule_2": "访问权限将仅授予提供的账户！只有在订阅续订时才能将访问权限转移到另一个账户。",
 			"back": "后退",
 			"onward": "下一个",
 			"skip": "跳过",
